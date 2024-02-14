@@ -10,14 +10,14 @@ I'm currently a second-year student at Bulacan State University Sarmiento Campus
 
 Here are some of the projects I've been working on:
 
-1. **[Weather Site](https://weather-site-e5tqtov9o-kaizoukus-projects.vercel.app/)** - A weather forecast application.
-   ![Weather Site](https://img.icons8.com/color/48/000000/clouds.png)
+1. ![Weather Site](https://img.icons8.com/color/48/000000/clouds.png) **[Weather Site](https://weather-site-e5tqtov9o-kaizoukus-projects.vercel.app/)** - A weather forecast application.
+   
 
-2. **[Todo List](https://kaizouku14.github.io/Todo-List/)** - A task management tool.
-   ![Todo List](https://img.icons8.com/color/48/000000/checklist.png)
+2. ![Todo List](https://img.icons8.com/color/48/000000/checklist.png) **[Todo List](https://kaizouku14.github.io/Todo-List/)** - A task management tool.
+  
 
-3. **[Tic-Tac-Toe](https://kaizouku14.github.io/Tic-Tac-Toe/)** - A classic game of tic-tac-toe.
-   ![Tic-Tac-Toe](https://img.icons8.com/color/48/000000/circled-x.png)
+3. ![Tic-Tac-Toe](https://image.flaticon.com/icons/png/512/1024/10249264.png) **[Tic-Tac-Toe](https://kaizouku14.github.io/Tic-Tac-Toe/)** - A classic game of tic-tac-toe.
+   
 
 Feel free to explore my repositories to discover more projects!
 
