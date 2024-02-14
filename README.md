@@ -24,25 +24,24 @@ Feel free to explore my repositories to discover more projects!
 ## Technologies
 
 - ### Web Development
-  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) HTML
-  ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) CSS
-  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-  ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) React
+  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) 
+  ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) 
+  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) 
+  ![React Icon](https://img.icons8.com/color/48/000000/react-native.png) 
 
-- ### Programming Languages & Databases
-  ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png) C
-  ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-  ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
-  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-  MySQL
+- ### Programming Languages
+  ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
+  ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+  ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+  ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 - ### Tools
-  ![Git Icon](https://img.icons8.com/color/48/000000/git.png) Git
-  ![Visual Studio Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code
-  ![IntelliJ Icon](https://img.icons8.com/color/48/000000/intellij-idea.png) IntelliJ
-  ![Eclipse Icon](https://img.icons8.com/officel/48/000000/java-eclipse.png) Eclipse
-  ![Figma Icon](https://img.icons8.com/color/48/000000/figma--v1.png) Figma
-  ![Visual Studio Icon](https://img.icons8.com/color/48/000000/visual-studio.png) Visual Studio
+  ![Git Icon](https://img.icons8.com/color/48/000000/git.png) 
+  ![Visual Studio Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+  ![IntelliJ Icon](https://img.icons8.com/color/48/000000/intellij-idea.png)
+  ![Eclipse Icon](https://img.icons8.com/officel/48/000000/java-eclipse.png) 
+  ![Figma Icon](https://img.icons8.com/color/48/000000/figma--v1.png) 
+  ![Visual Studio Icon](https://img.icons8.com/color/48/000000/visual-studio.png)
 
 ## Get in Touch
 
