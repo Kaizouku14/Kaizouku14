@@ -10,7 +10,7 @@ I'm currently a second-year student at Bulacan State University Sarmiento Campus
 
 Here are some of the projects I've been working on:
 
-1. **[Weather Site](https://weather-site-e5tqtov9o-kaizoukus-projects.vercel.app/)** - A weather forecast application.
+1. **[Weather Site](https://weather-site-three.vercel.app/)** - A weather forecast application.
    
 
 2. **[Todo List](https://kaizouku14.github.io/Todo-List/)** - A task management tool.
