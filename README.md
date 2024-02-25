@@ -48,7 +48,7 @@ Feel free to explore my repositories to discover more projects!
 I'm always open to collaboration and new opportunities! Feel free to reach out to me through:
 
 - Email: mandaalv72@gmail.com
-- ![Facebook Icon](https://img.icons8.com/color/48/000000/facebook-new.png) [Alv Manda](https://www.facebook.com/alv.manda.3)
-- ![Instagram Icon](https://img.icons8.com/fluent/48/000000/instagram-new.png) [@yzyalv.m](https://www.instagram.com/zyalv.m/)
+- Facebook: [Alv Manda](https://www.facebook.com/alv.manda.3)
+- Instagram: [@yzyalv.m](https://www.instagram.com/zyalv.m/)
   
 Let's connect and create something awesome together! 🚀
