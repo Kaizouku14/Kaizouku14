@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate student of BSIT with a keen inter
 
 ## About Me
 
-I'm currently a second-year student at Bulacan State University Sarmiento Campus. My journey into the world of technology began with a deep curiosity and a desire to create impactful solutions. I'm constantly exploring new technologies and striving to expand my skills.
+I'm currently a third-year student at Bulacan State University Sarmiento Campus. My journey into the world of technology began with a deep curiosity and a desire to create impactful solutions. I'm constantly exploring new technologies and striving to expand my skills.
 
 ## Projects
 
