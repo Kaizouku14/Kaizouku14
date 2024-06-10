@@ -34,6 +34,7 @@ Feel free to explore my repositories to discover more projects!
   ![C++ Icon](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
   ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
   ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) 
 
 - ### Tools
   ![Git Icon](https://img.icons8.com/color/48/000000/git.png) 
