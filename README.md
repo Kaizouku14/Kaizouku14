@@ -35,7 +35,8 @@ Feel free to explore my repositories to discover more projects!
   ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
   ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
   ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) 
-
+     ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png)
+  
 - ### Tools
   ![Git Icon](https://img.icons8.com/color/48/000000/git.png) 
   ![Visual Studio Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
@@ -43,6 +44,7 @@ Feel free to explore my repositories to discover more projects!
   ![Eclipse Icon](https://img.icons8.com/officel/48/000000/java-eclipse.png) 
   ![Figma Icon](https://img.icons8.com/color/48/000000/figma--v1.png) 
   ![Visual Studio Icon](https://img.icons8.com/color/48/000000/visual-studio.png)
+  ![Vite Icon](https://img.icons8.com/color/48/000000/vite.png)
 
 ## Get in Touch
 
