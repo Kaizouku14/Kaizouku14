@@ -6,21 +6,6 @@ Welcome to my GitHub profile! I'm a passionate student of BSIT with a keen inter
 
 I'm currently a third-year student at Bulacan State University Sarmiento Campus. My journey into the world of technology began with a deep curiosity and a desire to create impactful solutions. I'm constantly exploring new technologies and striving to expand my skills.
 
-## Projects
-
-Here are some of the projects I've been working on:
-
-1. **[Weather Site](https://weather-site-three.vercel.app/)** - A weather forecast application.
-   
-
-2. **[Todo List](https://kaizouku14.github.io/Todo-List/)** - A task management tool.
-  
-
-3. **[Tic-Tac-Toe](https://kaizouku14.github.io/Tic-Tac-Toe/)** - A classic game of tic-tac-toe.
-   
-
-Feel free to explore my repositories to discover more projects!
-
 ## Technologies
 
 - ### Web Development
