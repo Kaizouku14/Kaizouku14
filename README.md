@@ -1,73 +1,96 @@
-<h1 align="center">Hello, I'm Al-v Manda! 👋</h1>
 
-###
-
-<h4 align="center">I'm a third-year student at Bulacan State University Sarmiento Campus, driven by curiosity and a passion for creating impactful solutions while continuously exploring new technologies.</h4>
-
-###
-
-<h4 align="center">Technologies</h4>
-
-###
-
+ <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Al-v+Manda+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Creating+Digital+Solutions+%F0%9F%92%A1;Always+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF"/>
 </div>
 
-###
 
-<h4 align="center">Tools</h4>
-
-###
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Banner"/>
 </div>
 
-###
+```typescript
+const alv = {
+  name: "Al-v Manda",
+  status: "Fourth-year Computer Science Student",
+  university: "Bulacan State University Sarmiento Campus",
+  location: "Philippines 🇵🇭",
+  interests: ["Full-Stack Development", "Problem Solving"],
+  motto: "Driven by curiosity, powered by passion! 🚀",
+  currentFocus: "Building impactful solutions & exploring new technologies",
+  funFact: "I turn coffee into code! ☕️➡️💻"
+};
+```
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> Tech Stack
 
 <div align="center">
+  
+### 🚀 **Frontend Technologies**
+<div>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,react,javascript,html,css,tailwind,figma" alt="Frontend Technologies" />
+</div>
+
+### ⚙️ **Backend & Database**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,java,python,mongodb,mysql" alt="Backend Technologies" />
+</div>
+
+### 🛠️ **Development Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,npm,postman,docker" alt="Development Tools" />
+</div>
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaizouku14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizouku14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaizouku14&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Let's Connect!
+<div align="center">
+  
   <a href="https://www.instagram.com/zyalv.m/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
   </a>
-  <a href="www.linkedin.com/in/al-v-manda-604b90333" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/al-v-manda-604b90333" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/alv.manda.3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
   </a>
+  <img src="https://raw.githubusercontent.com/kaizouku14/kaizouku14/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer GIF"/>
+</div>
 
-<br clear="both">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
 
-<img src="https://raw.githubusercontent.com/kaizouku14/kaizouku14/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  
+  **✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨**
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-f5e8c0c7-9e5c-4f6f-9c3a-e7e1b7b4d7c8.gif" width="50" alt="Heart" />
+  
+</div>
