@@ -89,10 +89,6 @@ const alv = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaizouku14&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
   
   **✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨**
   
