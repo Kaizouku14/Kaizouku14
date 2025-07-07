@@ -12,7 +12,7 @@
 ```typescript
 const alv = {
   name: "Al-v Manda",
-  status: "Fourth-year Computer Science Student",
+  status: "Fourth-year IT Student",
   university: "Bulacan State University Sarmiento Campus",
   location: "Philippines 🇵🇭",
   interests: ["Full-Stack Development", "Problem Solving"],
