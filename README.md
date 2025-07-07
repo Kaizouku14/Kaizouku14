@@ -89,7 +89,7 @@ const alv = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kaizouku14&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
