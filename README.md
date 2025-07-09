@@ -41,7 +41,7 @@ const alv = {
   <summary><b>⚡ Backend Technologies&nbsp;&nbsp;&nbsp;&nbsp;</b></summary>
   <br>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,java,python,mongodb,mysql" alt="Backend Technologies" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,java,mongodb,mysql" alt="Backend Technologies" />
     <br><br>
     <i>Powering robust server-side applications</i>
   </div>
@@ -51,7 +51,7 @@ const alv = {
    <summary><b>🛠️  Development Tools&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></summary>
    <br>
    <div align="center">
-     <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,npm,postman,docker" alt="Development Tools" />
+     <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,npm,postman" alt="Development Tools" />
      <br><br>
      <i>Streamlining development workflow</i>
    </div>
